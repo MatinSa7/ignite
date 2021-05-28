@@ -39,6 +39,10 @@ p {
     padding-bottom: 0.5rem;
     color: #696969;
 }
+
+img {
+    display: block;
+}
 `;
 
 export default GlobalStyles;
